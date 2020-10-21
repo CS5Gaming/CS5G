@@ -1,0 +1,13 @@
+C:\Users\Tushar\Desktop\Program\If\bin\Debug\netcoreapp3.1\If.exe
+C:\Users\Tushar\Desktop\Program\If\bin\Debug\netcoreapp3.1\If.deps.json
+C:\Users\Tushar\Desktop\Program\If\bin\Debug\netcoreapp3.1\If.runtimeconfig.json
+C:\Users\Tushar\Desktop\Program\If\bin\Debug\netcoreapp3.1\If.runtimeconfig.dev.json
+C:\Users\Tushar\Desktop\Program\If\bin\Debug\netcoreapp3.1\If.dll
+C:\Users\Tushar\Desktop\Program\If\bin\Debug\netcoreapp3.1\If.pdb
+C:\Users\Tushar\Desktop\Program\If\obj\Debug\netcoreapp3.1\If.csprojAssemblyReference.cache
+C:\Users\Tushar\Desktop\Program\If\obj\Debug\netcoreapp3.1\If.AssemblyInfoInputs.cache
+C:\Users\Tushar\Desktop\Program\If\obj\Debug\netcoreapp3.1\If.AssemblyInfo.cs
+C:\Users\Tushar\Desktop\Program\If\obj\Debug\netcoreapp3.1\If.csproj.CoreCompileInputs.cache
+C:\Users\Tushar\Desktop\Program\If\obj\Debug\netcoreapp3.1\If.dll
+C:\Users\Tushar\Desktop\Program\If\obj\Debug\netcoreapp3.1\If.pdb
+C:\Users\Tushar\Desktop\Program\If\obj\Debug\netcoreapp3.1\If.genruntimeconfig.cache
