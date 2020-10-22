@@ -1,0 +1,13 @@
+C:\Users\Tushar\Desktop\Program\Loop\bin\Debug\netcoreapp3.1\Loop.exe
+C:\Users\Tushar\Desktop\Program\Loop\bin\Debug\netcoreapp3.1\Loop.deps.json
+C:\Users\Tushar\Desktop\Program\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.json
+C:\Users\Tushar\Desktop\Program\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.dev.json
+C:\Users\Tushar\Desktop\Program\Loop\bin\Debug\netcoreapp3.1\Loop.dll
+C:\Users\Tushar\Desktop\Program\Loop\bin\Debug\netcoreapp3.1\Loop.pdb
+C:\Users\Tushar\Desktop\Program\Loop\obj\Debug\netcoreapp3.1\Loop.csprojAssemblyReference.cache
+C:\Users\Tushar\Desktop\Program\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfoInputs.cache
+C:\Users\Tushar\Desktop\Program\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfo.cs
+C:\Users\Tushar\Desktop\Program\Loop\obj\Debug\netcoreapp3.1\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Tushar\Desktop\Program\Loop\obj\Debug\netcoreapp3.1\Loop.dll
+C:\Users\Tushar\Desktop\Program\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
+C:\Users\Tushar\Desktop\Program\Loop\obj\Debug\netcoreapp3.1\Loop.genruntimeconfig.cache
